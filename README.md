@@ -93,4 +93,3 @@ You can easily modify:
 ## 🪪 License
 
 This project is open-source and available under the **MIT License**.  
-© 2025 Ananthu Prakash, Ardit Sulce
